@@ -1,0 +1,71 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    font-family: 'Young Serif', serif;
+}
+
+.container{
+    padding: 50px;
+}
+
+.section-one{
+    background-color: black;
+    color: white;
+    padding: 20px;
+    
+}
+
+.section-one h1{
+    font-size: 60px;
+}
+
+.section-one p{
+    font-size: 30px;
+    margin-top: 10px;
+}
+
+.section-one a{
+    background-color: orangered;
+    color: white;
+    padding: 2px;
+    text-decoration: none;
+    margin-top: 10px;
+}
+
+form{
+    margin-top: 20px;
+}
+
+input{
+    margin-top: 10px;
+    border: none;
+    border-bottom: black solid 2px;
+    padding: 10px;
+} 
+
+textarea{
+    margin-top: 10px;
+    border: none;
+    border: black solid 2px;
+    padding: 10px;
+}
+.section-three{
+    background-color: black;
+    color: white;
+    padding: 10px;
+    margin-top: 10px;
+}
+
+.submit{
+    background-color: orangered ;
+    border: none;
+    padding: 5px;
+    cursor: pointer;
+}
+
+.submit:hover{
+    color: grey;
+}
