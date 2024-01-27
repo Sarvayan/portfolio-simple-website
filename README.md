@@ -22,7 +22,7 @@ HTML
 CSS
 How to Use:
 
-Clone the repository: git clone https://github.com/your-username/portfolio.git
+Clone the repository: git clone [https://github.com/your-username/portfolio.git](https://github.com/Sarvayan/portfolio-simple-website.git)
 Customize the content in the HTML files to match your information.
 Modify the CSS as needed to personalize the styling.
 Host the website using your preferred platform or GitHub Pages.
